@@ -1,0 +1,43 @@
+{
+  "phoneBooks": [
+    {
+      "id": 1,
+      "name": "Book"
+    },
+    {
+      "name": "Gina",
+      "id": 2
+    },
+    {
+      "name": "Sammy",
+      "id": 3
+    }
+  ],
+  "Contacts": [
+    {
+      "phoneBookname": "Gina",
+      "userName": "pretty",
+      "PhoneNumber": 072-444-1235",
+      "id": 1
+    },
+    {
+      "phoneBookname": "book 1",
+      "userName": "Katlego",
+      "PhoneNumber": "015-000-1995",
+      "id": 2
+    },
+    {
+      "phoneBookname": "Gina 2",
+      "userName": "Rendi",
+      "PhoneNumber": "555-666-3333",
+      "id": 3
+    },
+    {
+      "phoneBookname": "Sammy 2",
+      "userName": "Boledi",
+      "PhoneNumber": "078-877-8889",
+      "id": 4
+    }
+
+  ]
+}

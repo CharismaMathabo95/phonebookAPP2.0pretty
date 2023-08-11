@@ -1,0 +1,57 @@
+.Contents > div{
+    margin-bottom: 15px;
+    height: 45px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Text{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textBoxes {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.textBoxes input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  font-size: 16px;
+  width: 40%;
+  box-sizing: border-box;
+  outline: none;
+  text-align: center; /* Center the text inside the input */
+}
+
+.textBoxes input::placeholder {
+  color: #ccc;
+  text-align: center; /* Center the placeholder text */
+}
+
+.textBoxes input:focus {
+  border-bottom-color: #007bff;
+}
+
+/* Add an additional class to control the length of the border-bottom */
+.short-border {
+  width: 50%; /* Adjust the width to control the length of the border-bottom */
+  margin: 50%; /* Center the short border */
+}
+
+
+
+.btnContents{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .button {
+    margin: 30px;
+  }
